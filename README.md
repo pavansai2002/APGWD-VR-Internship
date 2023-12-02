@@ -4,16 +4,16 @@
 <body>
   <h1>APGWD-VR-Internship Application</h1>
   <h2>Overview</h2>
-  <p>Welcome to the APGWD Ground Water Monitoring application! This application is designed based on the MERN stack to help employees of APGWD from various districts of Andhra Pradesh update the groundwater records. The employee login is used to update the value that is detected on site, and then it sends a request to the district director of that particular district, who verifies whether the change is valid or not. If it is valid, he will approve the change, which will be completely updated in the MongoDB database. This application provides the necessary tools and features to streamline your workflow.<br/> Please find the site link below: 
+  <p>Welcome to the APGWD Ground Water Monitoring application! This application is designed based on the MERN stack to help employees of APGWD from various districts of Andhra Pradesh update the groundwater records. The employee login is used to update the value that is detected on site, and then it sends a request to the district director of that particular district, who verifies whether the change is valid or not. If it is valid, he will approve the change, which will be completely updated in the MongoDB database. Also, the timeline graph of that region or a district is displayed. This application provides the necessary tools and features to streamline your workflow.<br/> Please find the site link below: 
 </p>
   <img src = "TrackUp.gif" alt = "Track Up" />
   <h2>Features</h2>
   <ul>
-    <li><strong>Task Management:</strong> Create, update, and delete tasks with ease. Assign tasks to specific team members and set due dates for efficient tracking.</li>
-    <li><strong>Project Management:</strong> Organize your tasks into projects for better categorization and management. View project progress, deadlines, and overall status.</li>
-    <li><strong>Authentication:</strong> Securely authenticate users with authentication system integration.</li>
+    <li><strong>Ubiquitous districts:</strong> Data pertaining to all the 26 various districts in Andhra Pradesh is accessible.</li>
+    <li><strong>Accessible from anywhere:</strong> Create, update, and delete data with ease. Assign tasks to specific members and set the on-site data for efficient monitoring.</li>
+    <li><strong>Authentication:</strong> Securely authenticate with authentication system integration.</li>
     <li><strong>Frontend:</strong> Built using React.js, a popular JavaScript library for building user interfaces. Enjoy a responsive and interactive user experience.</li>
-    <li><strong>Backend:</strong> Utilizes MongoDB, a NoSQL database, for storing and retrieving task and project data efficiently.</li>
+    <li><strong>Backend:</strong> Utilizes MongoDB, a NoSQL database, for storing and retrieving groundwater data efficiently.</li>
   </ul>
   <h2>Installation</h2>
   <p>To install and run the application locally, follow these steps:</p>
